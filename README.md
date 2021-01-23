@@ -16,32 +16,11 @@ Either clone the reposity, or import the unity package file.<br>
 The latest unity version tested: UNITY_2019.4.11f1<br>
 However, newer version *should* work. 
 
-## Running:
-Check that the program is not corrupt or tampered with by using the the below checksums:
-
-### Demo:
-Hashing method | Value
------------- | -------------
-CRC32 | C57B042F
-CRC64 | 15A119EBF9944446
-SHA1 | 4A4DBB7871D2D6F9A796F6FAFE3577ECFE3961D9
-SHA256 | 66652E971F56DE4A2E11F085480A4283BE3FDB4118E6C56DACEFB335418A011E
-
-
-### Unity package:
-Hashing method | Value
------------- | -------------
-CRC32 | C57B042F
-CRC64 | 15A119EBF9944446
-SHA1 | 4A4DBB7871D2D6F9A796F6FAFE3577ECFE3961D9
-SHA256 | 66652E971F56DE4A2E11F085480A4283BE3FDB4118E6C56DACEFB335418A011E
-
-
 ## Authors:
 1. [Julius 'bukz' Bendt](https://juto.dk),
 
 ## Other credits:
-###Melodic Ambience
+### Melodic Ambience
 1. https://freesound.org/people/amliebsch/sounds/39046/ (piano)
 2. https://www.freesound.org/people/lennyboy/sounds/244417/ (violins)
 3. https://www.freesound.org/people/clamundson/sounds/151362/ (music box)
