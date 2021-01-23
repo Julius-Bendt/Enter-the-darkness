@@ -1,0 +1,84 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl ground
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  12.8
+illum 2
+map_Kd -s -3.6 -5.8 1.0 ASHSEN_2.GIF
+#
+newmtl 06_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.7
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl pich
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.5
+illum 2
+#
+newmtl 12_-_Default
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  0.2
+Ns  9.8
+illum 2
+#
+newmtl 60
+Ka  0.6 0.1 0.1
+Kd  0.6 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl NORMAL_POSITION
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl HEAD
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl casset
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  0.6
+Ns  11.6
+illum 2
+#
+newmtl roye_navar
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.9 0.9 0.9
+d  0.9
+Ns  1.1
+illum 2
+#
+# EOF
